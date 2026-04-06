@@ -1,1 +1,1 @@
-# Aula-6-calculador
+# Aula-6-calculadora
